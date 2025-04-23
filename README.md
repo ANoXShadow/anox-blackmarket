@@ -1,7 +1,7 @@
 # anox-blackmarket  
 Black Market for QBCore, QBox, and ESX with Random Location System  
 - [Preview](https://www.youtube.com/watch?v=iX4n9J9sfHQ)
-- [Docs] (https://anoxstudios.gitbook.io/anoxstudios/free-scripts/anox-blackmarket)
+- [Docs](https://anoxstudios.gitbook.io/anoxstudios/free-scripts/anox-blackmarket)
 ### 🔧 Requirements
 
 **Must-Have:**  
