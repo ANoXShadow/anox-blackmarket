@@ -5,7 +5,7 @@ lua54 'yes'
 name 'anox-blackmarket'
 author 'ANoXStudio'
 description 'Black Market script compatible with ESX, QBCore, and QBox'
-version '1.1.0'
+version '1.0.1'
 
 shared_scripts {
     '@ox_lib/init.lua',
