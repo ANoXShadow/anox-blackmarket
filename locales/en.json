@@ -1,0 +1,14 @@
+{
+    "dealer_name": "Black Market Dealer",
+    "talk_to_dealer": "Talk to Dealer",
+    "purchase_success": "You bought %s",
+    "purchase_failed": "Purchase failed: %s",
+    "not_enough_money": "You don't have enough money",
+    "cannot_carry": "You cannot carry this item",
+    "checking_merchandise": "Checking merchandise...",
+    "market_moved": "The black market dealer has moved to a new location",
+    "admin_changed_location": "Admin changed the black market location",
+    "player_not_found": "Player not found",
+    "transaction_failed": "You don't have enough black money",
+    "no_permission": "You do not have permission to use this command"
+  }
