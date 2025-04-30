@@ -31,7 +31,7 @@ Config.PedScenario = 'WORLD_HUMAN_SMOKING'
 
 Config.UseDirtyMoney = true -- true = uses black_money/markedbills, false = uses regular money
 Config.EnableBlip = true -- Set to false to disable the black market blip
-Config.Debug = true
+Config.Debug = false
 Config.LocationChangeTime = 10 -- Location change timer (in minutes)
 
 Config.TargetOptions = {
